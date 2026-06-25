@@ -1,4 +1,4 @@
-package com.ai4everyone.tutorial.assertlog;
+package com.nexora.software.assertlog;
 
 import ch.qos.logback.classic.Level;
 import ch.qos.logback.classic.spi.ILoggingEvent;

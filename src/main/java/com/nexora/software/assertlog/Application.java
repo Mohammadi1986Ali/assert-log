@@ -1,4 +1,4 @@
-package com.ai4everyone.tutorial.assertlog;
+package com.nexora.software.assertlog;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

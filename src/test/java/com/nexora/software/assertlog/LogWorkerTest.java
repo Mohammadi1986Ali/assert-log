@@ -1,4 +1,4 @@
-package com.ai4everyone.tutorial.assertlog;
+package com.nexora.software.assertlog;
 
 import ch.qos.logback.classic.Level;
 import ch.qos.logback.classic.Logger;
@@ -14,7 +14,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class LogWorkerTest {
     private static MemoryAppender memoryAppender;
-    private static final String LOGGER_NAME = "com.ai4everyone.tutorial";
+    private static final String LOGGER_NAME = "com.nexora.software";
     private static final String MSG = "Message!!!";
     private static LogWorker logWorker;
 
