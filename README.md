@@ -12,41 +12,6 @@ The project includes:
 - JUnit tests that assert logged message counts, log levels, and regex pattern
   matches.
 
-## Requirements
-
-- Java 21
-- Maven 3.x
-
-## Build and test
-
-Run the test suite:
-
-```bash
-mvn test
-```
-
-Build the jar:
-
-```bash
-mvn package
-```
-
-The packaged application is created under `target/` as:
-
-```text
-target/assert-log-1.0.1.jar
-```
-
-## Run
-
-After packaging, run the application with:
-
-```bash
-java -jar target/assert-log-1.0.1.jar
-```
-
-The application logs a startup message from `Application#main`.
-
 ## Project structure
 
 ```text
